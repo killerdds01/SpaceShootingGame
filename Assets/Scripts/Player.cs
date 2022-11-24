@@ -18,7 +18,7 @@ public class Player : MonoBehaviour
     void Update()
     {
         CalculateMuvement();
-
+        
         //if i hit the space key
         //spawn gameObject
 
